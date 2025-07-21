@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/faisalalmail/frontend-quiz-app](https://github.com/faisalalmail/frontend-quiz-app)
 - Live Site URL: [https://frontend-quiz-app-pi-one.vercel.app/](https://frontend-quiz-app-pi-one.vercel.app/)
 
 ## My process
